@@ -2,10 +2,13 @@
 
 ## Requisitos não funcionais
 ````
-1 - Irar ter 7 blocos
+1 - Irar ter 7 blocos de informações no layout
 2 - Primeiro bloco vai ter um titulo com o nome de uma cidade e o proximo
 deverar conter uma breve descrição sobre a cidade
 3 - Os blocos com título tem que ter uma imagem de fundo sobre a cidade
+4 - Relate todos os erros encontrados nas issues com comentários e links uteis.
+5 - Pode usar o proprio issues do github desse repositorio ou trello.
+6 - Se for usar o trello colocar o link e deixar aberto o projeto.
 ````
 
 ## Requisitos não funcionais
