@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Porto_Velho%2C_Rond%C3%B4nia%2C_Brasil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
