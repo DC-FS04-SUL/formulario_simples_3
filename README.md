@@ -19,6 +19,6 @@ deverar conter uma breve descrição sobre a cidade
 ````
 
 
-## EXEMPLO
+## EXEMPLO de blocos
 
 ![image](https://github.com/DC-FS04-SUL/formulario_simples_3/assets/19413241/a001286b-2a38-4e03-b087-2b3d681275da)
