@@ -1,6 +1,6 @@
 # Formulário simples 3
 
-## Requisitos não funcionais
+## Requisitos funcionais
 ````
 1 - Irar ter 7 blocos de informações no layout
 2 - Primeiro bloco vai ter um titulo com o nome de uma cidade e o proximo
